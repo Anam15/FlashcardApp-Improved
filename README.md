@@ -1,4 +1,4 @@
-## Edit (6/12/2020) - Decided to improve on Flashcard app that I worked on as a part of Codepath's Andriod App cousrse, for my final project of my Software Design Class (csc 22100)
+## Decided to improve on Flashcard app that I worked on as a part of Codepath's Andriod App cousrse, for my final project of my Software Design Class (csc 22100)
 #### Added the following new features
       1. Next button: When the user clicks this button, the user will be able to access the next card in the deck. 
       2. Error message pop up: This will pop up if the user forgets to write anything in the question or the answer section and clicks            on the down arrow button. 
